@@ -3,3 +3,7 @@ DB_HOST = "localhost"
 DB_USER = "root"
 DB_PASS = ""
 DB_NAME = "marker"
+NEXT_UPDATE_AFTER = 0
+UPDATE_INTERVAL = 60  # secs
+IS_ALREADY_UPDATED = False
+NOON_METRICS_ALERT = "21:00"
