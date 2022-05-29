@@ -1,1 +1,5 @@
 BOT_TOKEN = "1655392577:AAFaI3AzjLCTOney5MqRtFzFhGAzAIQwMO8"
+DB_HOST = "localhost"
+DB_USER = "root"
+DB_PASS = ""
+DB_NAME = "marker"
